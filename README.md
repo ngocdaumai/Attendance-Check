@@ -1,5 +1,5 @@
 # Attendance-Check
-# Check if someone was authorized or not using QRCode
+- Check if someone was authorized or not using QRCode
 
 # Results:
 - Input:
